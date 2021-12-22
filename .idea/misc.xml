@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/drawable/gradient_result.xml" value="0.31203703703703706" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/drawable/ic_correct.xml" value="0.3" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/drawable/ic_neutral_face.xml" value="0.31203703703703706" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/drawable/ic_quiz.xml" value="0.3" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/drawable/ic_topic.xml" value="0.3" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/drawable/ic_video.xml" value="0.3" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/drawable/ic_wrong.xml" value="0.3" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/layout/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/layout/activity_result.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/layout/activity_topics.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/layout/activity_video.xml" value="0.25" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/layout/back_pressed.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudio/1Aktif/MyApplication/app/src/main/res/layout/topics_card.xml" value="0.25" />
+        <entry key="..\:/Users/OsmanSalih/Desktop/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/OsmanSalih/Desktop/MyApplication/app/src/main/res/layout/activity_quiz.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/OsmanSalih/Desktop/MyApplication/app/src/main/res/layout/activity_result.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/OsmanSalih/Desktop/MyApplication/app/src/main/res/layout/activity_topics.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/OsmanSalih/Desktop/MyApplication/app/src/main/res/layout/activity_video.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/OsmanSalih/Desktop/MyApplication/app/src/main/res/layout/back_pressed.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/OsmanSalih/Desktop/MyApplication/app/src/main/res/layout/topics_card.xml" value="0.20153985507246377" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

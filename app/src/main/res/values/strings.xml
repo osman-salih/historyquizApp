@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">201735033</string>
+
+    <string name="back_button">Do you really want to close the application?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

@@ -1,0 +1,164 @@
+{
+  "worldwar1questions": [
+    {
+      "question": "Istanbul has had many names in its millennia-long history. When the city was first founded over 3,000 years ago, what was its name?",
+      "answer1": "A) Byzantium",
+      "answer2": "B) Istanbul",
+      "answer3": "C) Constantinople",
+      "answer4": "D) Ligos",
+      "correct": "D) Ligos"
+    },
+    {
+      "question": "Which ancient Roman Emperor sacked and then rebuilt Byzantium in AD 196? He also invaded what is now Scotland and expanded the Roman Empire to the Tigris River.",
+      "answer1": "A) Didius Julianus",
+      "answer2": "B) Julius Caesar",
+      "answer3": "C)  Septimius Severus",
+      "answer4": "D) Vespasian",
+      "correct": "C)  Septimius Severus"
+    },
+    {
+      "question": "The Byzantine Emperor Justinian, who ruled from 527-565, is often considered the greatest leaders of the empire. One of his accomplishments was building the Hagia Sophia, still one of Istanbul's most famous attractions. Which of the following is NOT something the Hagia Sophia has been during its long history?",
+      "answer1": "A) A Jewish temple",
+      "answer2": "B) A museum",
+      "answer3": "C) A mosque",
+      "answer4": "D) A Greek Orthodox cathedral",
+      "correct": "A) A Jewish temple"
+    },
+    {
+      "question": "What is the name of the famous building, seen in the picture in scale model, that was built in 1453 under the orders of Sultan Mehmed II and was to be the seat of Ottoman rule for 389 years?",
+      "answer1": "A) Mehmed House",
+      "answer2": "B) Topkapi Palace",
+      "answer3": "C) Constantinople Castle",
+      "answer4": "D) Suleiman Complex",
+      "correct": "B) Topkapi Palace"
+    },
+    {
+      "question": "Who is the famous Ottoman architect and engineer who designed the Suleiman Mosque in Constantinople and is known for helping Suleiman the Magnificent accomplish his goal of expanding the arts within the Ottoman Empire?",
+      "answer1": "A) Ahmed Fevzi Pasha",
+      "answer2": "B) Shah Jahan",
+      "answer3": "C) Mimar Sinan",
+      "answer4": "D) Selim II",
+      "correct": "C) Mimar Sinan"
+    },
+    {
+      "question": "Built in 1584 for Nurbanu Sultan, wife of Selim II, Cemberlitas Hamami is a famous example of what kind of structure, relatively common in modern Istanbul?",
+      "answer1": "A) Mosque",
+      "answer2": "B) Turkish bath",
+      "answer3": "C) Religious university",
+      "answer4": "D) Dondurma, Turkish ice cream stand",
+      "correct": "B) Turkish bath"
+    },
+    {
+      "question": "During the Constantinople Massacre of 1821, the Ottomans attacked and massacred which group of the population?",
+      "answer1": "A) Greeks",
+      "answer2": "B) Armenians",
+      "answer3": "C) Jews",
+      "answer4": "D) Arabs",
+      "correct": "A) Greeks"
+    },
+    {
+      "question": "Who was the founder and the first president of the Republic of Turkey?",
+      "answer1": "A) Osman Ghazi",
+      "answer2": "B) Mustafa Kemal Ataturk",
+      "answer3": "C) Suleyman",
+      "answer4": "D) Ismet Inonu",
+      "correct": "B) Mustafa Kemal Ataturk"
+    },
+    {
+      "question": "what was the name of the political party which ruled Turkey continuously from 1923 to 1950?",
+      "answer1": "A) Democrat Party (DP)",
+      "answer2": "B) New Turkey Party",
+      "answer3": "C) Committee of Union and Progress (Ittihad ve Terakki)",
+      "answer4": "D) Republican People's Party (CHP)",
+      "correct": "D) Republican People's Party (CHP)"
+    },
+    {
+      "question": "Who were the president and prime minister of Turkey between 1950-1960?",
+      "answer1": "A) Mustafa Kemal Atatürk & Ismet Inonu",
+      "answer2": "B) Celal Bayar & Adnan Menderes",
+      "answer3": "C) Abdullah Gul & Recep Tayyip Erdogan",
+      "answer4": "D) Suleyman Demirel & Bülent Ecevit",
+      "correct": "B) Celal Bayar & Adnan Menderes"
+    },
+    {
+      "question": "Who was the first female prime minister of Turkey?",
+      "answer1": "A) Fatma Sahin",
+      "answer2": "B) Tansu Ciller",
+      "answer3": "C) Sabiha Gokcen",
+      "answer4": "D) Halide Edip Adivar",
+      "correct": "B) Tansu Ciller"
+    },
+    {
+      "question": "After World War I, Turkey waged a war against Greece",
+      "answer1": "A) True",
+      "answer2": "B) False",
+      "answer3": "",
+      "answer4": "",
+      "correct": "A) True"
+    },
+    {
+      "question": "The constitution used by Turkey went in effect in 1982.",
+      "answer1": "A) True",
+      "answer2": "B) False",
+      "answer3": "",
+      "answer4": "",
+      "correct": "A) True"
+    },
+    {
+      "question": "What is the capital of Turkey?",
+      "answer1": "A) Istanbul",
+      "answer2": "B) Ankara",
+      "answer3": "C) Damascus",
+      "answer4": "D) Beirut",
+      "correct": "B) Ankara"
+    },
+    {
+      "question": "What is the name of the sea that Turkey's northern shore faces?",
+      "answer1": "A) Dead Sea",
+      "answer2": "B) Caspian Sea",
+      "answer3": "C) Black Sea",
+      "answer4": "D) Red Sea",
+      "correct": "C) Black Sea"
+    },
+    {
+      "question": "What is the state religion of Turkey?",
+      "answer1": "A) none",
+      "answer2": "B) Christianity",
+      "answer3": "C) Islam",
+      "answer4": "D) Buddhism",
+      "correct": "A) none"
+    },
+    {
+      "question": "The origin of Santa Claus is Bishop Nicholas of Turkey",
+      "answer1": "A) True",
+      "answer2": "B) False",
+      "answer3": "",
+      "answer4": "",
+      "correct": "A) True"
+    },
+    {
+      "question": "Turkey straddles two continents, Europe and Asia.",
+      "answer1": "A) True",
+      "answer2": "B) False",
+      "answer3": "",
+      "answer4": "",
+      "correct": "A) True"
+    },
+    {
+      "question": "The Ottoman Empire collapsed after the end of the Second World War.",
+      "answer1": "A) True",
+      "answer2": "B) False",
+      "answer3": "",
+      "answer4": "",
+      "correct": "B) False,"
+    },
+    {
+      "question": "Which of these countries has a national language that is related to Turkish?",
+      "answer1": "A) Greece",
+      "answer2": "B) Azerbaijan",
+      "answer3": "C) Armenia",
+      "answer4": "D) Bulgaria",
+      "correct": "B) Azerbaijan"
+    }
+  ]
+}
